@@ -1,6 +1,6 @@
 
 
-<h3 align="left">	Connect with me: </br> marcosnetbol@hotmail</h3>
+<h3 align="left">	Connect with me: </br> marcostejofortu@gmail.com</h3>
 <p align="left">
 </p>
 
